@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "url": "https://raw.githubusercontent.com/elumoreno741-create/neko-ota/main/firmware_v3.bin",
+  "md5": "FBF862C959CC8889C2D80D23D5BA266E",
+  "broker": "mqtt.guardianesda.com",
+  "puerto": 8883
+}
