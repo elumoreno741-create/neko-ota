@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "url": "https://raw.githubusercontent.com/elumoreno741-create/neko-ota/main/firmware_v3.bin",
+  "url": "https://ota.guardianesda.com/firmware_v3.bin",
   "md5": "6CE92B7EE8AD3A76DE2BAD908209368B",
   "broker": "mqtt.guardianesda.com",
   "puerto": 8883
